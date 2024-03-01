@@ -1,5 +1,5 @@
 <body><b>
-  <a href="https://github.com/DurinPavel/movie_recommendation_system/edit/main/README.md" target="_blank">
+  <a href="https://github.com/DurinPavel/movie_recommendation_system/blob/main/README.md" target="_blank">
     <p>Russian version</p></a>
     <p align="justify">
       The goal of this project is to build a hybrid recommendation system for movies to users based on the available 
